@@ -84,9 +84,6 @@ jspm_packages/
 # Local uploads directory (when not using S3)
 uploads/
 
-# LocalStack data
-localstack/
-
 # Docker volumes
 volumes/
 
